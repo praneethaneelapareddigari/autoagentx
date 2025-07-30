@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+langchain
+langchain-community
+pinecone-client
+python-jose[cryptography]
+passlib[bcrypt]
+prometheus-client
+pydantic
+python-dotenv
+httpx
